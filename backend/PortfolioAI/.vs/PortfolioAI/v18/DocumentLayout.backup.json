@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TUSHAR\\OneDrive\\Documents\\AI-Portfolio\\backend\\PortfolioAI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4D5E23-A281-CE1B-15BD-1649924E322B}|PortfolioAI.csproj|c:\\users\\tushar\\onedrive\\documents\\ai-portfolio\\backend\\portfolioai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4D5E23-A281-CE1B-15BD-1649924E322B}|PortfolioAI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4D5E23-A281-CE1B-15BD-1649924E322B}|PortfolioAI.csproj|c:\\users\\tushar\\onedrive\\documents\\ai-portfolio\\backend\\portfolioai\\controller\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4D5E23-A281-CE1B-15BD-1649924E322B}|PortfolioAI.csproj|solutionrelative:controller\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4D5E23-A281-CE1B-15BD-1649924E322B}|PortfolioAI.csproj|c:\\users\\tushar\\onedrive\\documents\\ai-portfolio\\backend\\portfolioai\\services\\ragservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4D5E23-A281-CE1B-15BD-1649924E322B}|PortfolioAI.csproj|solutionrelative:services\\ragservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4D5E23-A281-CE1B-15BD-1649924E322B}|PortfolioAI.csproj|c:\\users\\tushar\\onedrive\\documents\\ai-portfolio\\backend\\portfolioai\\models\\geminiembeddingresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4D5E23-A281-CE1B-15BD-1649924E322B}|PortfolioAI.csproj|solutionrelative:models\\geminiembeddingresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4D5E23-A281-CE1B-15BD-1649924E322B}|PortfolioAI.csproj|c:\\users\\tushar\\onedrive\\documents\\ai-portfolio\\backend\\portfolioai\\services\\geminiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4D5E23-A281-CE1B-15BD-1649924E322B}|PortfolioAI.csproj|solutionrelative:services\\geminiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4D5E23-A281-CE1B-15BD-1649924E322B}|PortfolioAI.csproj|c:\\users\\tushar\\onedrive\\documents\\ai-portfolio\\backend\\portfolioai\\models\\chathistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4D5E23-A281-CE1B-15BD-1649924E322B}|PortfolioAI.csproj|solutionrelative:models\\chathistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4D5E23-A281-CE1B-15BD-1649924E322B}|PortfolioAI.csproj|c:\\users\\tushar\\onedrive\\documents\\ai-portfolio\\backend\\portfolioai\\repositories\\chathistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4D5E23-A281-CE1B-15BD-1649924E322B}|PortfolioAI.csproj|solutionrelative:repositories\\chathistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4D5E23-A281-CE1B-15BD-1649924E322B}|PortfolioAI.csproj|c:\\users\\tushar\\onedrive\\documents\\ai-portfolio\\backend\\portfolioai\\portfolioai.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AF4D5E23-A281-CE1B-15BD-1649924E322B}|PortfolioAI.csproj|solutionrelative:portfolioai.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4D5E23-A281-CE1B-15BD-1649924E322B}|PortfolioAI.csproj|c:\\users\\tushar\\onedrive\\documents\\ai-portfolio\\backend\\portfolioai\\data\\resumedataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4D5E23-A281-CE1B-15BD-1649924E322B}|PortfolioAI.csproj|solutionrelative:data\\resumedataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4D5E23-A281-CE1B-15BD-1649924E322B}|PortfolioAI.csproj|c:\\users\\tushar\\onedrive\\documents\\ai-portfolio\\backend\\portfolioai\\controller\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4D5E23-A281-CE1B-15BD-1649924E322B}|PortfolioAI.csproj|solutionrelative:controller\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4D5E23-A281-CE1B-15BD-1649924E322B}|PortfolioAI.csproj|c:\\users\\tushar\\onedrive\\documents\\ai-portfolio\\backend\\portfolioai\\pdfhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4D5E23-A281-CE1B-15BD-1649924E322B}|PortfolioAI.csproj|solutionrelative:pdfhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4D5E23-A281-CE1B-15BD-1649924E322B}|PortfolioAI.csproj|c:\\users\\tushar\\onedrive\\documents\\ai-portfolio\\backend\\portfolioai\\services\\iaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4D5E23-A281-CE1B-15BD-1649924E322B}|PortfolioAI.csproj|solutionrelative:services\\iaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4D5E23-A281-CE1B-15BD-1649924E322B}|PortfolioAI.csproj|c:\\users\\tushar\\onedrive\\documents\\ai-portfolio\\backend\\portfolioai\\repositories\\pineconerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4D5E23-A281-CE1B-15BD-1649924E322B}|PortfolioAI.csproj|solutionrelative:repositories\\pineconerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4D5E23-A281-CE1B-15BD-1649924E322B}|PortfolioAI.csproj|c:\\users\\tushar\\onedrive\\documents\\ai-portfolio\\backend\\portfolioai\\repositories\\ivectorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4D5E23-A281-CE1B-15BD-1649924E322B}|PortfolioAI.csproj|solutionrelative:repositories\\ivectorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4D5E23-A281-CE1B-15BD-1649924E322B}|PortfolioAI.csproj|c:\\users\\tushar\\onedrive\\documents\\ai-portfolio\\backend\\portfolioai\\models\\documentchunk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4D5E23-A281-CE1B-15BD-1649924E322B}|PortfolioAI.csproj|solutionrelative:models\\documentchunk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4D5E23-A281-CE1B-15BD-1649924E322B}|PortfolioAI.csproj|c:\\users\\tushar\\onedrive\\documents\\ai-portfolio\\backend\\portfolioai\\dtos\\resumeuploadrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4D5E23-A281-CE1B-15BD-1649924E322B}|PortfolioAI.csproj|solutionrelative:dtos\\resumeuploadrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4D5E23-A281-CE1B-15BD-1649924E322B}|PortfolioAI.csproj|c:\\users\\tushar\\onedrive\\documents\\ai-portfolio\\backend\\portfolioai\\dtos\\chatrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4D5E23-A281-CE1B-15BD-1649924E322B}|PortfolioAI.csproj|solutionrelative:dtos\\chatrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4D5E23-A281-CE1B-15BD-1649924E322B}|PortfolioAI.csproj|c:\\users\\tushar\\onedrive\\documents\\ai-portfolio\\backend\\portfolioai\\dtos\\chatresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4D5E23-A281-CE1B-15BD-1649924E322B}|PortfolioAI.csproj|solutionrelative:dtos\\chatresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChatHistoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TUSHAR\\OneDrive\\Documents\\AI-Portfolio\\backend\\PortfolioAI\\Repositories\\ChatHistoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ChatHistoryRepository.cs",
+              "ToolTip": "C:\\Users\\TUSHAR\\OneDrive\\Documents\\AI-Portfolio\\backend\\PortfolioAI\\Repositories\\ChatHistoryRepository.cs",
+              "RelativeToolTip": "Repositories\\ChatHistoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T10:49:38.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TUSHAR\\OneDrive\\Documents\\AI-Portfolio\\backend\\PortfolioAI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\TUSHAR\\OneDrive\\Documents\\AI-Portfolio\\backend\\PortfolioAI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwB0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T17:17:13.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RagService.cs",
+              "DocumentMoniker": "C:\\Users\\TUSHAR\\OneDrive\\Documents\\AI-Portfolio\\backend\\PortfolioAI\\Services\\RagService.cs",
+              "RelativeDocumentMoniker": "Services\\RagService.cs",
+              "ToolTip": "C:\\Users\\TUSHAR\\OneDrive\\Documents\\AI-Portfolio\\backend\\PortfolioAI\\Services\\RagService.cs",
+              "RelativeToolTip": "Services\\RagService.cs",
+              "ViewState": "AgIAAFQAAADgzMzMzMwgwGQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T07:47:18.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChatHistory.cs",
+              "DocumentMoniker": "C:\\Users\\TUSHAR\\OneDrive\\Documents\\AI-Portfolio\\backend\\PortfolioAI\\Models\\ChatHistory.cs",
+              "RelativeDocumentMoniker": "Models\\ChatHistory.cs",
+              "ToolTip": "C:\\Users\\TUSHAR\\OneDrive\\Documents\\AI-Portfolio\\backend\\PortfolioAI\\Models\\ChatHistory.cs",
+              "RelativeToolTip": "Models\\ChatHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T09:41:01.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GeminiService.cs",
+              "DocumentMoniker": "C:\\Users\\TUSHAR\\OneDrive\\Documents\\AI-Portfolio\\backend\\PortfolioAI\\Services\\GeminiService.cs",
+              "RelativeDocumentMoniker": "Services\\GeminiService.cs",
+              "ToolTip": "C:\\Users\\TUSHAR\\OneDrive\\Documents\\AI-Portfolio\\backend\\PortfolioAI\\Services\\GeminiService.cs",
+              "RelativeToolTip": "Services\\GeminiService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwCEAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T17:14:59.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GeminiEmbeddingResponse.cs",
+              "DocumentMoniker": "C:\\Users\\TUSHAR\\OneDrive\\Documents\\AI-Portfolio\\backend\\PortfolioAI\\Models\\GeminiEmbeddingResponse.cs",
+              "RelativeDocumentMoniker": "Models\\GeminiEmbeddingResponse.cs",
+              "ToolTip": "C:\\Users\\TUSHAR\\OneDrive\\Documents\\AI-Portfolio\\backend\\PortfolioAI\\Models\\GeminiEmbeddingResponse.cs",
+              "RelativeToolTip": "Models\\GeminiEmbeddingResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T08:23:08.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\Users\\TUSHAR\\OneDrive\\Documents\\AI-Portfolio\\backend\\PortfolioAI\\Controller\\ChatController.cs",
+              "RelativeDocumentMoniker": "Controller\\ChatController.cs",
+              "ToolTip": "C:\\Users\\TUSHAR\\OneDrive\\Documents\\AI-Portfolio\\backend\\PortfolioAI\\Controller\\ChatController.cs",
+              "RelativeToolTip": "Controller\\ChatController.cs",
+              "ViewState": "AgIAADMAAABAMzMzMzMjwEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T17:17:59.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PortfolioAI.csproj",
+              "DocumentMoniker": "C:\\Users\\TUSHAR\\OneDrive\\Documents\\AI-Portfolio\\backend\\PortfolioAI\\PortfolioAI.csproj",
+              "RelativeDocumentMoniker": "PortfolioAI.csproj",
+              "ToolTip": "C:\\Users\\TUSHAR\\OneDrive\\Documents\\AI-Portfolio\\backend\\PortfolioAI\\PortfolioAI.csproj",
+              "RelativeToolTip": "PortfolioAI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-13T17:17:29.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResumeDataSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\TUSHAR\\OneDrive\\Documents\\AI-Portfolio\\backend\\PortfolioAI\\Data\\ResumeDataSeeder.cs",
+              "RelativeDocumentMoniker": "Data\\ResumeDataSeeder.cs",
+              "ToolTip": "C:\\Users\\TUSHAR\\OneDrive\\Documents\\AI-Portfolio\\backend\\PortfolioAI\\Data\\ResumeDataSeeder.cs",
+              "RelativeToolTip": "Data\\ResumeDataSeeder.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T07:48:06.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\TUSHAR\\OneDrive\\Documents\\AI-Portfolio\\backend\\PortfolioAI\\Controller\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controller\\AdminController.cs",
+              "ToolTip": "C:\\Users\\TUSHAR\\OneDrive\\Documents\\AI-Portfolio\\backend\\PortfolioAI\\Controller\\AdminController.cs",
+              "RelativeToolTip": "Controller\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T09:54:10.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAIService.cs",
+              "DocumentMoniker": "C:\\Users\\TUSHAR\\OneDrive\\Documents\\AI-Portfolio\\backend\\PortfolioAI\\Services\\IAIService.cs",
+              "RelativeDocumentMoniker": "Services\\IAIService.cs",
+              "ToolTip": "C:\\Users\\TUSHAR\\OneDrive\\Documents\\AI-Portfolio\\backend\\PortfolioAI\\Services\\IAIService.cs",
+              "RelativeToolTip": "Services\\IAIService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T07:47:07.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PineconeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TUSHAR\\OneDrive\\Documents\\AI-Portfolio\\backend\\PortfolioAI\\Repositories\\PineconeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PineconeRepository.cs",
+              "ToolTip": "C:\\Users\\TUSHAR\\OneDrive\\Documents\\AI-Portfolio\\backend\\PortfolioAI\\Repositories\\PineconeRepository.cs",
+              "RelativeToolTip": "Repositories\\PineconeRepository.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAqwJQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T07:46:30.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PdfHelper.cs",
+              "DocumentMoniker": "C:\\Users\\TUSHAR\\OneDrive\\Documents\\AI-Portfolio\\backend\\PortfolioAI\\PdfHelper.cs",
+              "RelativeDocumentMoniker": "PdfHelper.cs",
+              "ToolTip": "C:\\Users\\TUSHAR\\OneDrive\\Documents\\AI-Portfolio\\backend\\PortfolioAI\\PdfHelper.cs",
+              "RelativeToolTip": "PdfHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T10:24:12.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IVectorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TUSHAR\\OneDrive\\Documents\\AI-Portfolio\\backend\\PortfolioAI\\Repositories\\IVectorRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IVectorRepository.cs",
+              "ToolTip": "C:\\Users\\TUSHAR\\OneDrive\\Documents\\AI-Portfolio\\backend\\PortfolioAI\\Repositories\\IVectorRepository.cs",
+              "RelativeToolTip": "Repositories\\IVectorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T07:46:14.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DocumentChunk.cs",
+              "DocumentMoniker": "C:\\Users\\TUSHAR\\OneDrive\\Documents\\AI-Portfolio\\backend\\PortfolioAI\\Models\\DocumentChunk.cs",
+              "RelativeDocumentMoniker": "Models\\DocumentChunk.cs",
+              "ToolTip": "C:\\Users\\TUSHAR\\OneDrive\\Documents\\AI-Portfolio\\backend\\PortfolioAI\\Models\\DocumentChunk.cs",
+              "RelativeToolTip": "Models\\DocumentChunk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T07:47:42.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ResumeUploadRequest.cs",
+              "DocumentMoniker": "C:\\Users\\TUSHAR\\OneDrive\\Documents\\AI-Portfolio\\backend\\PortfolioAI\\DTOs\\ResumeUploadRequest.cs",
+              "RelativeDocumentMoniker": "DTOs\\ResumeUploadRequest.cs",
+              "ToolTip": "C:\\Users\\TUSHAR\\OneDrive\\Documents\\AI-Portfolio\\backend\\PortfolioAI\\DTOs\\ResumeUploadRequest.cs",
+              "RelativeToolTip": "DTOs\\ResumeUploadRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T09:53:22.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ChatRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\TUSHAR\\OneDrive\\Documents\\AI-Portfolio\\backend\\PortfolioAI\\DTOs\\ChatRequestDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ChatRequestDto.cs",
+              "ToolTip": "C:\\Users\\TUSHAR\\OneDrive\\Documents\\AI-Portfolio\\backend\\PortfolioAI\\DTOs\\ChatRequestDto.cs",
+              "RelativeToolTip": "DTOs\\ChatRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T07:45:32.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ChatResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\TUSHAR\\OneDrive\\Documents\\AI-Portfolio\\backend\\PortfolioAI\\DTOs\\ChatResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ChatResponseDto.cs",
+              "ToolTip": "C:\\Users\\TUSHAR\\OneDrive\\Documents\\AI-Portfolio\\backend\\PortfolioAI\\DTOs\\ChatResponseDto.cs",
+              "RelativeToolTip": "DTOs\\ChatResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T07:45:46.193Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
