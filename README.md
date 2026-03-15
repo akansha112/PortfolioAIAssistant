@@ -39,9 +39,10 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="./assets/chat-interface.png" width="45%" alt="Chat Interface" style="margin-right: 10px; border-radius: 10px;" />
-  <img src="./assets/admin-panel.png" width="45%" alt="Admin Panel" style="border-radius: 10px;" />
-</p>
+  <img alt="Image" src="https://github.com/user-attachments/assets/ba3e9d38-d1b4-4a16-9cbe-c40e03095667" width="45%" alt="Chat Interface" style="margin-right: 10px; border-radius: 10px;" />
+
+<img alt="Image" src="https://github.com/user-attachments/assets/7653da82-47ef-44db-9337-084c8b9ca421" width="45%" alt="Admin Panel" style="border-radius: 10px;" />
+ </p>
 
 ---
 
