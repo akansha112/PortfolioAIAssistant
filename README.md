@@ -2,7 +2,7 @@
 ### *Your Digital Twin: Powered by RAG, .NET 8, and React*
 
 <p align="center">
-  <img src="./assets/portfolio-hero.png" alt="Portfolio AI Assistant Hero" width="800px" style="border-radius: 15px; border: 1px solid #444;">
+  <img src="https://github.com/user-attachments/assets/ba3e9d38-d1b4-4a16-9cbe-c40e03095667" alt="Portfolio AI Assistant Hero" width="800px" style="border-radius: 15px; border: 1px solid #444;">
 </p>
 
 ---
